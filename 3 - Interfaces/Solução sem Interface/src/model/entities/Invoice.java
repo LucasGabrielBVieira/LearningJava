@@ -2,6 +2,8 @@ package model.entities;
 
 public class Invoice {
 
+    //Classe que irá gerar a nota de pagamento contendo a taxa, o pagamento basico e a soma dos dois
+
     private Double basicPayment;
     private Double tax;
 
@@ -29,6 +31,8 @@ public class Invoice {
         this.tax = tax;
     }
 
+    //Função que gera o valor total
+    //É utilizado get pra facilitar uma possível mudança na lógica dos atributos
     public Double getTotalPayment() {
         return getBasicPayment() + getTax();
     }
