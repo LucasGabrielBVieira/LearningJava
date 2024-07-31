@@ -1,6 +1,7 @@
 package model.services;
 
-public class BrazilTaxService {
+//Implementação do contrato
+public class BrazilTaxService implements TaxService {
 
     //Classe que representa um serviço que contém apenas a função que determina a regra de imposto nacional
 

@@ -15,7 +15,7 @@ public class RentalService {
     private Double pricePerHour;
 
     //Composição da classe responsável pelo cálculo do imposto
-    private BrazilTaxService taxService;
+    private TaxService taxService;
 
     public RentalService(Double pricePerDay, Double pricePerHour, BrazilTaxService taxService) {
         this.pricePerDay = pricePerDay;
