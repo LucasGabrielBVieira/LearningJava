@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1 - Retomando/1 - Retomando.iml" filepath="$PROJECT_DIR$/1 - Retomando/1 - Retomando.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5 - Programação Funcional e Expressões Lambda/Comparator com expressão lambda/Comparator com expressão lambda.iml" filepath="$PROJECT_DIR$/5 - Programação Funcional e Expressões Lambda/Comparator com expressão lambda/Comparator com expressão lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5 - Programação Funcional e Expressões Lambda/Consumer com forEacth/Consumer com forEacth.iml" filepath="$PROJECT_DIR$/5 - Programação Funcional e Expressões Lambda/Consumer com forEacth/Consumer com forEacth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4 - Generics, Set, Map/Covariancia e Contravariancia/Covariancia e Contravariancia.iml" filepath="$PROJECT_DIR$/4 - Generics, Set, Map/Covariancia e Contravariancia/Covariancia e Contravariancia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3 - Interfaces/DefaultMethods/DefaultMethods.iml" filepath="$PROJECT_DIR$/3 - Interfaces/DefaultMethods/DefaultMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4 - Generics, Set, Map/Exercicio 2 - Set - Resolvido/Exercicio 2 - Set - Resolvido.iml" filepath="$PROJECT_DIR$/4 - Generics, Set, Map/Exercicio 2 - Set - Resolvido/Exercicio 2 - Set - Resolvido.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4 - Generics, Set, Map/Exercício - Set/Exercício - Set.iml" filepath="$PROJECT_DIR$/4 - Generics, Set, Map/Exercício - Set/Exercício - Set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 - Trabalhando com arquivo/FileAndScanner-/FileAndScanner-.iml" filepath="$PROJECT_DIR$/2 - Trabalhando com arquivo/FileAndScanner-/FileAndScanner-.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 - Trabalhando com arquivo/FileReade and BufferedReader/FileReade and BufferedReader.iml" filepath="$PROJECT_DIR$/2 - Trabalhando com arquivo/FileReade and BufferedReader/FileReade and BufferedReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 - Trabalhando com arquivo/FileWriter and BufferedWriter/FileWriter and BufferedWriter.iml" filepath="$PROJECT_DIR$/2 - Trabalhando com arquivo/FileWriter and BufferedWriter/FileWriter and BufferedWriter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 - Trabalhando com arquivo/Final exercise/Final exercise.iml" filepath="$PROJECT_DIR$/2 - Trabalhando com arquivo/Final exercise/Final exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5 - Programação Funcional e Expressões Lambda/Function/Function.iml" filepath="$PROJECT_DIR$/5 - Programação Funcional e Expressões Lambda/Function/Function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5 - Programação Funcional e Expressões Lambda/Funções que recebem funções como parametro/Funções que recebem funções como parametro.iml" filepath="$PROJECT_DIR$/5 - Programação Funcional e Expressões Lambda/Funções que recebem funções como parametro/Funções que recebem funções como parametro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4 - Generics, Set, Map/Generics/Generics.iml" filepath="$PROJECT_DIR$/4 - Generics, Set, Map/Generics/Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3 - Interfaces/Herdar e Impor um contrato/Herdar e Impor um contrato.iml" filepath="$PROJECT_DIR$/3 - Interfaces/Herdar e Impor um contrato/Herdar e Impor um contrato.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3 - Interfaces/Interface - Exercicio 2/Interface - Exercicio 2.iml" filepath="$PROJECT_DIR$/3 - Interfaces/Interface - Exercicio 2/Interface - Exercicio 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3 - Interfaces/Interface - Exercicio 2 Correção/Interface - Exercicio 2 Correção.iml" filepath="$PROJECT_DIR$/3 - Interfaces/Interface - Exercicio 2 Correção/Interface - Exercicio 2 Correção.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3 - Interfaces/Interface - Exercício 1/Interface - Exercício 1.iml" filepath="$PROJECT_DIR$/3 - Interfaces/Interface - Exercício 1/Interface - Exercício 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3 - Interfaces/Interface Comparable/Interface Comparable.iml" filepath="$PROJECT_DIR$/3 - Interfaces/Interface Comparable/Interface Comparable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LearningJava.iml" filepath="$PROJECT_DIR$/.idea/LearningJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 - Trabalhando com arquivo/Manipulating folders with File/Manipulating folders with File.iml" filepath="$PROJECT_DIR$/2 - Trabalhando com arquivo/Manipulating folders with File/Manipulating folders with File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4 - Generics, Set, Map/Map/Map.iml" filepath="$PROJECT_DIR$/4 - Generics, Set, Map/Map/Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4 - Generics, Set, Map/Map - Exercício/Map - Exercício.iml" filepath="$PROJECT_DIR$/4 - Generics, Set, Map/Map - Exercício/Map - Exercício.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5 - Programação Funcional e Expressões Lambda/Predicate com removeIF/Predicate com removeIF.iml" filepath="$PROJECT_DIR$/5 - Programação Funcional e Expressões Lambda/Predicate com removeIF/Predicate com removeIF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4 - Generics, Set, Map/Set/Set.iml" filepath="$PROJECT_DIR$/4 - Generics, Set, Map/Set/Set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4 - Generics, Set, Map/hashCode and Equals/hashCode and Equals.iml" filepath="$PROJECT_DIR$/4 - Generics, Set, Map/hashCode and Equals/hashCode and Equals.iml" />
+    </modules>
+  </component>
+</project>
